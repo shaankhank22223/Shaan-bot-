@@ -1,9 +1,9 @@
 module.exports.config = {
-	name: "adminUpdate",
-	eventType: ["log:thread-admins","log:thread-name", "log:user-nickname", "log:thread-call","log:thread-icon", "log:thread-color", "log:link-status", "log:magic-words", "log:thread-approval-mode", "log:thread-poll"],
-	version: "1.0.1",
-	credits: "uzairrajput",
-	description: "Update group information quickly",
+        name: "adminUpdate",
+        eventType: ["log:thread-admins","log:thread-name", "log:user-nickname", "log:thread-call","log:thread-icon", "log:thread-color", "log:link-status", "log:magic-words", "log:thread-approval-mode", "log:thread-poll"],
+        version: "1.0.1",
+        credits: "Aasif Alam",
+        description: "Update group information quickly",
     envConfig: {
         autoUnsend: true,
         sendNoti: true,
@@ -14,9 +14,9 @@ module.exports.config = {
 module.exports.run = async function ({ event, api, Threads, Users }) { 
     const { author, threadID, logMessageType, logMessageData } = event;
     const { setData, getData } = Threads;
-  	const fs = require("fs");
-	var iconPath = __dirname + "/emoji.json";
-	if (!fs.existsSync(iconPath)) fs.writeFileSync(iconPath, JSON.stringify({}));
+          const fs = require("fs");
+        var iconPath = __dirname + "/emoji.json";
+        if (!fs.existsSync(iconPath)) fs.writeFileSync(iconPath, JSON.stringify({}));
   if (author == threadID) return;
 
     try {
@@ -68,11 +68,11 @@ module.exports.run = async function ({ event, api, Threads, Users }) {
                 break;
             }
             case "log:thread-icon": {
-            	let preIcon = JSON.parse(fs.readFileSync(iconPath));
-            	dataThread.threadIcon = event.logMessageData.thread_icon || "🤦🏻‍♂";
+                    let preIcon = JSON.parse(fs.readFileSync(iconPath));
+                    dataThread.threadIcon = event.logMessageData.thread_icon || "🤦🏻‍♂";
                 if (global.configModule[this.config.name].sendNoti) api.sendMessage(`[⚜️] Aj ki Taaza Khabar [⚜️]\n»  ${event.logMessageBody.replace("emoticon", "icon")}\n» Original Icons: ${preIcon[threadID] || "unclear"}`, threadID, async (error, info) => {
-                	preIcon[threadID] = dataThread.threadIcon;
-                	fs.writeFileSync(iconPath, JSON.stringify(preIcon));
+                        preIcon[threadID] = dataThread.threadIcon;
+                        fs.writeFileSync(iconPath, JSON.stringify(preIcon));
                     if (global.configModule[this.config.name].autoUnsend) {
                         await new Promise(resolve => setTimeout(resolve, global.configModule[this.config.name].timeToUnsend * 1000));
                         return api.unsendMessage(info.messageID);
@@ -102,7 +102,7 @@ module.exports.run = async function ({ event, api, Threads, Users }) {
                     const timeFormat = `${hours}:${minutes}:${seconds}`;
 
                     api.sendMessage(`❯❯❯⭑𝐆𝐑𝐎𝐔𝐏 𝐔𝐏𝐃𝐀𝐓𝐄 ⭑❮❮❮\n» ${(logMessageData.video) ? '𝐕𝐈𝐃𝐄𝐎 ' : ''}CALL HAS ENDED.\n» CALL DURATION: ${timeFormat}`, threadID);
-                    
+
                 }
                 else if (logMessageData.joining_user) {
                     const name = await Users.getNameUser(logMessageData.joining_user);
@@ -130,7 +130,7 @@ module.exports.run = async function ({ event, api, Threads, Users }) {
                 return api.sendMessage(event.logMessageBody, threadID)
             }
              case "log:thread-color": {
-            	dataThread.threadColor = event.logMessageData.thread_color || "🌤";
+                    dataThread.threadColor = event.logMessageData.thread_color || "🌤";
                 if (global.configModule[this.config.name].sendNoti) api.sendMessage(`[⚜️] UPDATE GROUP CODE [⚜️]\n»  ${event.logMessageBody.replace("Topic", "color")}`, threadID, async (error, info) => {
                     if (global.configModule[this.config.name].autoUnsend) {
                         await new Promise(resolve => setTimeout(resolve, global.configModule[this.config.name].timeToUnsend * 1000));
