@@ -1,1 +1,104 @@
-const _0x46f888=_0x1e2f;function _0x4f47(){const _0x30f26c=['undefined','createReadStream','79562fxeThX','length','fs-extra','cache','random','Assalamu\x20Alaikum\x20Everyone🥀🥀','run','replace','436518KxBBTz','get','.gif','1380750EXVGVb','2495368oMqakh','430165SNpNym','some','🌺Uzair🦋🌺\x20CONNECTED«\x0a\x0aBot\x20Made\x20By\x20MrUzairXxX-MTX\x20💚✨\x0a<------------------------------>\x20\x20\x0aBOT\x20CONNECTED\x20SUCCESFUL\x20!!!\x20\x0a\x0aAPPROVAL\x20ALLOW\x20IN\x20THIS\x20GROUP!!!\x0a<------------------------------>\x0a\x0aUSE\x20HELP\x20TO\x20SEE\x20COMMAND\x20\x0a\x0a\x0aUse\x20','You','711264CWXGBh','nodemodule','push','uzairrajput','\x20}\x20×\x20','PREFIX','/cache/uzair.mp4','music\x20(audio\x20songs)\x0a','fullName','help\x20to\x20see\x20commands.\x0a\x0aexample\x20:\x0a','1.0.1','BOTNAME','exports','joinNoti','getCurrentUserID','joinGif','Friend','threadID','addedParticipants','randomgif','sendMessage','log:subscribe','help2\x20(command\x20list)\x0a','config','𝐖𝐞𝐥𝐜𝐨𝐦𝐞\x20\x20\x20𝐓𝐨\x20\x20𝐌𝐫𝐔𝐳𝐚𝐢𝐫𝐗𝐱𝐗-𝐌𝐓𝐗\x20\x20𝐊𝐡𝐚𝐧\x20\x20𝐁𝐨𝐭\x20\x20😇●\x20=========================\x20●\x0a●\x20=======\x20𝐇𝐄𝐋𝐋𝐎\x20𝐁𝐀𝐁𝐘\x20=======\x20●\x0a●\x20=========================\x20●\x0a\x0a●\x20====\x20🆆\x20🅴🅻🅻\x20🅲🅾🅼\x20🅴\x20====\x20●\x0a\x0a●\x20=========\x20𝐍𝐄𝐖\x20=========\x20●\x0a\x0a●\x20====\x20🇲‌\x20🇪‌\x20🇲‌\x20🇧‌\x20🇪‌\x20🇷‌\x20====\x20●\x0a\x0a●\x20=========================\x20●\x20[\x20\x20\x20{name}\x20]\x0a●\x20=========================\x20●\x0a●\x20======\x20𝐌𝐘\x20𝐆𝐑𝐎𝐔𝐏\x20=====\x20●\x0a\x0a{threadName}\x0a\x0a●\x20=\x20🥀\x20𝐇𝐀𝐏𝐏𝐘\x20𝐄𝐍𝐉𝐎𝐘\x20🥀\x20=\x20●\x0a\x0a●\x20==\x20🥀\x20𝐌𝐀𝐉𝐄\x20𝐊𝐀𝐑𝐎\x20🥀\x20\x20==\x20●\x0a●\x20=========================\x20●\x20𝐎𝐑\x20𝐓𝐔𝐌\x20𝐈𝐒\x20𝐆𝐑𝐎𝐔𝐏\x20𝐊𝐄\x20\x20{soThanhVien}\x20𝐌𝐄𝐌𝐁𝐀𝐑\x20𝐇𝐎\x20𝐄𝐍𝐉𝐎𝐘\x20𝐊𝐀𝐑𝐎\x20𝐌𝐀𝐉𝐄\x20𝐋𝐎\x20[\x20.\x20]\x20●\x20=========================\x20●\x0a\x0a●\x20=========================\x20●\x0a●\x20=======\x20𝐖𝐞𝐥𝐜𝐨𝐦𝐞\x20𝐓𝐨\x20======\x20●\x0a\x0a☟\x20\x20==========\x20☟\x20==========\x20\x20☟\x0a\x0a=𝐎𝐰𝐧𝐞𝐫\x20➻\x20\x20\x20\x20🌹\x20𝐔𝐙𝐀𝐈𝐑\x20𝐑𝐀𝐉𝐏𝐔𝐓\x20𝐌𝐓𝐗\x20🌹\x0a●\x20=========================\x20●','join','48846fYPYbR','data','Notify\x20bot\x20or\x20group\x20member\x20with\x20random\x20gif/photo/video','path','customJoin','onLoad','6RTrQsh'];_0x4f47=function(){return _0x30f26c;};return _0x4f47();}function _0x1e2f(_0x3f6123,_0x349788){const _0x4f4732=_0x4f47();return _0x1e2f=function(_0x1e2fbd,_0x1bcbc5){_0x1e2fbd=_0x1e2fbd-0x8e;let _0x2c5dd9=_0x4f4732[_0x1e2fbd];return _0x2c5dd9;},_0x1e2f(_0x3f6123,_0x349788);}(function(_0x3f2a83,_0x3b81be){const _0x484752=_0x1e2f,_0x39a81c=_0x3f2a83();while(!![]){try{const _0xc3852f=parseInt(_0x484752(0x93))/0x1+-parseInt(_0x484752(0x9b))/0x2*(-parseInt(_0x484752(0x90))/0x3)+-parseInt(_0x484752(0xa4))/0x4+-parseInt(_0x484752(0xa0))/0x5+-parseInt(_0x484752(0x9e))/0x6+-parseInt(_0x484752(0xbe))/0x7+parseInt(_0x484752(0x9f))/0x8;if(_0xc3852f===_0x3b81be)break;else _0x39a81c['push'](_0x39a81c['shift']());}catch(_0x3b8529){_0x39a81c['push'](_0x39a81c['shift']());}}}(_0x4f47,0x4fd89),module[_0x46f888(0xb0)]['config']={'name':_0x46f888(0xb1),'eventType':[_0x46f888(0xb9)],'version':_0x46f888(0xae),'credits':_0x46f888(0xa7),'description':_0x46f888(0xc0),'dependencies':{'fs-extra':'','path':'','pidusage':''}},module[_0x46f888(0xb0)][_0x46f888(0x8f)]=function(){const _0x1b3644=_0x46f888,{existsSync:_0x244b20,mkdirSync:_0x5bd8c2}=global[_0x1b3644(0xa5)]['fs-extra'],{join:_0xebfac9}=global[_0x1b3644(0xa5)][_0x1b3644(0xc1)],_0x5a669d=_0xebfac9(__dirname,_0x1b3644(0x96),_0x1b3644(0xb3));_0x244b20(_0x5a669d)&&_0x5bd8c2(_0x5a669d,{'recursive':!![]});const _0xa98614=_0xebfac9(__dirname,_0x1b3644(0x96),_0x1b3644(0xb3),_0x1b3644(0xb7));!_0x244b20(_0xa98614)&&_0x5bd8c2(_0xa98614,{'recursive':!![]});return;},module[_0x46f888(0xb0)][_0x46f888(0x99)]=async function({api:_0x54754c,event:_0x2051c9}){const _0x1e8c2c=_0x46f888,{join:_0x41047f}=global[_0x1e8c2c(0xa5)][_0x1e8c2c(0xc1)],{threadID:_0x21545e}=_0x2051c9;if(_0x2051c9['logMessageData'][_0x1e8c2c(0xb6)][_0x1e8c2c(0xa1)](_0x6504d8=>_0x6504d8['userFbId']==_0x54754c['getCurrentUserID']())){_0x54754c['changeNickname']('{\x20'+global['config'][_0x1e8c2c(0xa9)]+_0x1e8c2c(0xa8)+(!global['config'][_0x1e8c2c(0xaf)]?'bot':global[_0x1e8c2c(0xbb)][_0x1e8c2c(0xaf)]),_0x21545e,_0x54754c[_0x1e8c2c(0xb2)]());const _0x308fc4=require('fs');return _0x54754c[_0x1e8c2c(0xb8)](_0x1e8c2c(0x98),_0x2051c9[_0x1e8c2c(0xb5)],()=>_0x54754c[_0x1e8c2c(0xb8)]({'body':_0x1e8c2c(0xa2)+global[_0x1e8c2c(0xbb)][_0x1e8c2c(0xa9)]+_0x1e8c2c(0xad)+global[_0x1e8c2c(0xbb)][_0x1e8c2c(0xa9)]+'video7\x20(video\x20songs)\x0a'+global['config'][_0x1e8c2c(0xa9)]+_0x1e8c2c(0xab)+global[_0x1e8c2c(0xbb)][_0x1e8c2c(0xa9)]+_0x1e8c2c(0xba)+global[_0x1e8c2c(0xbb)]['PREFIX']+'info\x20\x0a<<<<<------------------------------>>>>>\x0aAND\x20FOR\x20ANY\x20REPORT\x20OR\x20CONTACT\x20BOT\x20DEVELOPER\x0a\x0aOWNER:\x20MR\x20UZAIR\x20RAJPUT\x20MTX\x20\x0a\x0a♻️Facebook:\x20\x0a\x0ahttps://www.facebook.com/Mtxuzair\x0a\x0aYoutube\x20Site\x20:\x20MrUzairXxX-MTX\x20\x0a\x0a☢️\x20INSTAGRAM:\x20it\x27xuzair449\x0a\x0ahttps://www.instagram.com/itxuzair449?igsh=bzRuemE4cWE0cDBy￼\x0a\x0a☣️Email:\x20uzairmtx@gmail.com\x0a\x0a⚠️Wp:\x20+92\x203198188449\x20','attachment':_0x308fc4[_0x1e8c2c(0x92)](__dirname+_0x1e8c2c(0xaa))},_0x21545e));}else{try{const {createReadStream:_0x2fe324,existsSync:_0x29487c,mkdirSync:_0x15131a,readdirSync:_0x21f487}=global[_0x1e8c2c(0xa5)][_0x1e8c2c(0x95)];let {threadName:_0x2050d6,participantIDs:_0xb766a9}=await _0x54754c['getThreadInfo'](_0x21545e);const _0x2692fd=global[_0x1e8c2c(0xbf)]['threadData'][_0x1e8c2c(0x9c)](parseInt(_0x21545e))||{},_0x259aee=_0x41047f(__dirname,_0x1e8c2c(0x96),'joinGif'),_0x18be52=_0x41047f(_0x259aee,_0x21545e+_0x1e8c2c(0x9d));var _0x35a685=[],_0x95d3fe=[],_0x11f6bd=[],_0x32c1fc=0x0;for(id in _0x2051c9['logMessageData'][_0x1e8c2c(0xb6)]){const _0x76dfee=_0x2051c9['logMessageData'][_0x1e8c2c(0xb6)][id][_0x1e8c2c(0xac)];_0x95d3fe[_0x1e8c2c(0xa6)](_0x76dfee),_0x35a685[_0x1e8c2c(0xa6)]({'tag':_0x76dfee,'id':id}),_0x11f6bd['push'](_0xb766a9[_0x1e8c2c(0x94)]-_0x32c1fc++);}_0x11f6bd['sort']((_0x5c2f81,_0x34f786)=>_0x5c2f81-_0x34f786);typeof _0x2692fd[_0x1e8c2c(0x8e)]==_0x1e8c2c(0x91)?msg=_0x1e8c2c(0xbc):msg=_0x2692fd[_0x1e8c2c(0x8e)];msg=msg[_0x1e8c2c(0x9a)](/\{name}/g,_0x95d3fe[_0x1e8c2c(0xbd)](',\x20'))[_0x1e8c2c(0x9a)](/\{type}/g,_0x11f6bd['length']>0x1?_0x1e8c2c(0xa3):_0x1e8c2c(0xb4))[_0x1e8c2c(0x9a)](/\{soThanhVien}/g,_0x11f6bd[_0x1e8c2c(0xbd)](',\x20'))[_0x1e8c2c(0x9a)](/\{threadName}/g,_0x2050d6);_0x29487c(_0x259aee)&&_0x15131a(_0x259aee,{'recursive':!![]});const _0x530db7=_0x21f487(_0x41047f(__dirname,'cache',_0x1e8c2c(0xb3),'randomgif'));if(_0x29487c(_0x18be52))formPush={'body':msg,'attachment':_0x2fe324(_0x18be52),'mentions':_0x35a685};else{if(_0x530db7[_0x1e8c2c(0x94)]!=0x0){const _0x2b6438=_0x41047f(__dirname,_0x1e8c2c(0x96),_0x1e8c2c(0xb3),_0x1e8c2c(0xb7),''+_0x530db7[Math['floor'](Math[_0x1e8c2c(0x97)]()*_0x530db7[_0x1e8c2c(0x94)])]);formPush={'body':msg,'attachment':_0x2fe324(_0x2b6438),'mentions':_0x35a685};}else formPush={'body':msg,'mentions':_0x35a685};}return _0x54754c[_0x1e8c2c(0xb8)](formPush,_0x21545e);}catch(_0x578693){return console['log'](_0x578693);};}});
+module.exports.config = {
+        name: "joinNoti",
+        eventType: ["log:subscribe"],
+        version: "1.0.1",
+        credits: "CatalizCS", //fixing ken gusler
+        description: "Notify bot or group member with random gif/photo/video",
+        dependencies: {
+                "fs-extra": "",
+                "path": "",
+                "pidusage": ""
+        }
+};
+
+module.exports.onLoad = function () {
+    const { existsSync, mkdirSync } = global.nodemodule["fs-extra"];
+    const { join } = global.nodemodule["path"];
+
+        const path = join(__dirname, "cache", "joinGif");
+        if (existsSync(path)) mkdirSync(path, { recursive: true });        
+
+        const path2 = join(__dirname, "cache", "joinGif", "randomgif");
+    if (!existsSync(path2)) mkdirSync(path2, { recursive: true });
+
+    return;
+}
+
+
+module.exports.run = async function({ api, event }) {
+        const { join } = global.nodemodule["path"];
+        const { threadID } = event;
+        if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
+                api.changeNickname(`{ ${global.config.PREFIX} } × ${(!global.config.BOTNAME) ? "bot" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
+                const fs = require("fs");
+                return api.sendMessage("Assalamu Alaikum Everyone🥀🥀", event.threadID, () => api.sendMessage({body:`🌺Shaan🦋🌺 CONNECTED«
+
+Bot Made By SHAAN KHAN K☘️
+<------------------------------>  
+BOT CONNECTED SUCCESFUL !!! 
+
+APPROVAL ALLOW IN THIS GROUP!!!
+<------------------------------>
+
+USE HELP TO SEE COMMAND 
+\n\nUse ${global.config.PREFIX}help to see commands.\n\nexample :\n${global.config.PREFIX}video7 (video songs)\n${global.config.PREFIX}music (audio songs)\n${global.config.PREFIX}help2 (command list)\n${global.config.PREFIX}info 
+<<<<<------------------------------>>>>>
+AND FOR ANY REPORT OR CONTACT BOT DEVELOPER
+
+OWNER: 𝐒𝐇𝐀𝐀𝐍
+
+♻️Facebook: 
+
+https://www.facebook.com/profile.php?id=100016828397863&mibextid=ZbWKwL
+
+Youtube Site : N/A
+
+☢️ INSTAGRAM: N/A
+
+https://www.instagram.com/shankhank345?igsh=MXVneXZ6bzR4bHhvcg==￼
+
+☣️Email: shankhank345@gmail.com
+
+⚠️Wp: +92 3368783346 `, attachment: fs.createReadStream(__dirname + "/cache/lv_7413647234832682256_20250105005634.mp4")} ,threadID));
+        }
+        else {
+                try {
+                        const { createReadStream, existsSync, mkdirSync, readdirSync } = global.nodemodule["fs-extra"];
+                        let { threadName, participantIDs } = await api.getThreadInfo(threadID);
+
+                        const threadData = global.data.threadData.get(parseInt(threadID)) || {};
+                        const path = join(__dirname, "cache", "joinGif");
+                        const pathGif = join(path, `${threadID}.gif`);
+
+                        var mentions = [], nameArray = [], memLength = [], i = 0;
+
+                        for (id in event.logMessageData.addedParticipants) {
+                                const userName = event.logMessageData.addedParticipants[id].fullName;
+                                nameArray.push(userName);
+                                mentions.push({ tag: userName, id });
+                                memLength.push(participantIDs.length - i++);
+                        }
+                        memLength.sort((a, b) => a - b);
+
+                        (typeof threadData.customJoin == "undefined") ? msg = "𝐖𝐞𝐥𝐜𝐨𝐦𝐞   𝐓𝐨  𝐒𝐡𝐚𝐚𝐧  𝐊𝐡𝐚𝐧  𝐁𝐨𝐭  😇● ========================= ●\n● ======= 𝐇𝐄𝐋𝐋𝐎 𝐁𝐀𝐁𝐘 ======= ●\n● ========================= ●\n\n● ==== 🆆 🅴🅻🅻 🅲🅾🅼 🅴 ==== ●\n\n● ========= 𝐍𝐄𝐖 ========= ●\n\n● ==== 🇲‌ 🇪‌ 🇲‌ 🇧‌ 🇪‌ 🇷‌ ==== ●\n\n● ========================= ● [   {name} ]\n● ========================= ●\n● ====== 𝐌𝐘 𝐆𝐑𝐎𝐔𝐏 ===== ●\n\n{threadName}\n\n● = 🥀 𝐇𝐀𝐏𝐏𝐘 𝐄𝐍𝐉𝐎𝐘 🥀 = ●\n\n● == 🥀 𝐌𝐀𝐉𝐄 𝐊𝐀𝐑𝐎 🥀  == ●\n● ========================= ● 𝐎𝐑 𝐓𝐔𝐌 𝐈𝐒 𝐆𝐑𝐎𝐔𝐏 𝐊𝐄  {soThanhVien} 𝐌𝐄𝐌𝐁𝐀𝐑 𝐇𝐎 𝐄𝐍𝐉𝐎𝐘 𝐊𝐀𝐑𝐎 𝐌𝐀𝐉𝐄 𝐋𝐎 [ . ] ● ========================= ●\n\n● ========================= ●\n● ======= 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 ====== ●\n\n☟  ========== ☟ ==========  ☟\n\n=𝐎𝐰𝐧𝐞𝐫 ➻    🌹 𝐒𝐡𝐚𝐚𝐧 𝐊𝐡𝐚𝐧 𝐊 🌹\n● ========================= ●" : msg = threadData.customJoin;
+                        msg = msg
+                        .replace(/\{name}/g, nameArray.join(', '))
+                        .replace(/\{type}/g, (memLength.length > 1) ?  'You' : 'Friend')
+                        .replace(/\{soThanhVien}/g, memLength.join(', '))
+                        .replace(/\{threadName}/g, threadName);
+
+                        if (existsSync(path)) mkdirSync(path, { recursive: true });
+
+                        const randomPath = readdirSync(join(__dirname, "cache", "joinGif", "randomgif"));
+
+                        if (existsSync(pathGif)) formPush = { body: msg, attachment: createReadStream(pathGif), mentions }
+                        else if (randomPath.length != 0) {
+                                const pathRandom = join(__dirname, "cache", "joinGif", "randomgif", `${randomPath[Math.floor(Math.random() * randomPath.length)]}`);
+                                formPush = { body: msg, attachment: createReadStream(pathRandom), mentions }
+                        }
+                        else formPush = { body: msg, mentions }
+
+                        return api.sendMessage(formPush, threadID);
+                } catch (e) { return console.log(e) };
+        }
+                    }
