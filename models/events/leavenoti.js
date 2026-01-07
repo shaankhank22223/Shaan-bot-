@@ -1,1 +1,58 @@
-function _0x3942(){const _0x5614a2=['getData','2258288egqUEY','119608mIiHPX','1.0.0','fs-extra','exports','randomgif','format','nodemodule','log:unsubscribe','1196958kzpdkJ','💐𝐖𝐄𝐋𝐂𝐎𝐌𝐄\x20𝐓𝐎\x20𝐔𝐙𝐀𝐈𝐑\x20𝐁𝐎𝐓\x20𝐌𝐄𝐑𝐈\x20𝐉𝐀𝐀𝐍💐😇👈\x0a──────────────\x0a\x0a\x20{name}\x20\x0a\x0a──────────────\x0a𝐊𝐎\x20𝐁𝐇𝐆𝐀\x20𝐃𝐈𝐘𝐀🌝\x20\x0a──────────────────\x0a\x20{type}\x20\x0a──────────────\x0a𝐎𝐰𝐧𝐞𝐫\x20➻\x20\x20────\x20💐\x20𝐔𝐙𝐀𝐈𝐑\x20𝐌𝐓𝐗\x20💐\x0a──────────────\x0a\x20{name}\x20\x0a──────────────\x0a\x20💐💐𝐊𝐈𝐓𝐍𝐀\x20𝐂𝐔𝐓𝐄\x20𝐓𝐇𝐀\x20𝐍𝐀\x20𝐘𝐄𝐇💐💐😥\x20✨✨\x20𝐆𝐑𝐎𝐔𝐏\x20𝐒𝐄\x20𝐂𝐇𝐀𝐋𝐀\x20𝐆𝐀𝐘𝐀\x20♥\x20𝐀𝐁\x20𝐌𝐄𝐑𝐀\x20𝐈𝐒𝐊𝐄\x20𝐁𝐈𝐍𝐀\x20𝐊𝐀𝐈𝐒𝐄\x20𝐌𝐀𝐍\x20𝐋𝐀𝐆𝐄𝐆𝐀🤔🤔\x0a──────────────\x0a\x0a[❤️‍🔥]\x20🖤🖤😥😥...Good\x20{session}\x20||\x20{time}','leftParticipantFbId','logMessageData','replace','random','run','path','12367890vQujaW','data','onLoad','Asia/Karachi','14OiCsWB','2146911TJAFZw','get','leaveGif','undefined','cache','4792015CebvUA','DD/MM/YYYY\x20||\x20HH:mm:s','config','𝙉𝙞𝙜𝙝𝙩','floor','length','2uUwvUh','uzairrajput','123.mp4','𝘼𝙛𝙩𝙚𝙧𝙉𝙤𝙤𝙣','getCurrentUserID','leave','𝙀𝙫𝙚𝙣𝙞𝙣𝙜','threadData','450OChBFk','787242NCPMNr','Notify\x20the\x20Bot\x20or\x20the\x20person\x20leaving\x20the\x20group\x20with\x20a\x20random\x20gif/photo/video'];_0x3942=function(){return _0x5614a2;};return _0x3942();}const _0x44dbc3=_0x1716;function _0x1716(_0x6ecb78,_0x4f48c4){const _0x394241=_0x3942();return _0x1716=function(_0x171611,_0x13dc5b){_0x171611=_0x171611-0x1c9;let _0x46f7f2=_0x394241[_0x171611];return _0x46f7f2;},_0x1716(_0x6ecb78,_0x4f48c4);}(function(_0x578e11,_0x33f0dd){const _0x5e4d1d=_0x1716,_0x388a88=_0x578e11();while(!![]){try{const _0x4bd123=-parseInt(_0x5e4d1d(0x1d2))/0x1+-parseInt(_0x5e4d1d(0x1c9))/0x2*(-parseInt(_0x5e4d1d(0x1eb))/0x3)+parseInt(_0x5e4d1d(0x1d5))/0x4+parseInt(_0x5e4d1d(0x1f0))/0x5+-parseInt(_0x5e4d1d(0x1de))/0x6*(parseInt(_0x5e4d1d(0x1ea))/0x7)+parseInt(_0x5e4d1d(0x1d6))/0x8*(parseInt(_0x5e4d1d(0x1d1))/0x9)+-parseInt(_0x5e4d1d(0x1e6))/0xa;if(_0x4bd123===_0x33f0dd)break;else _0x388a88['push'](_0x388a88['shift']());}catch(_0x424e72){_0x388a88['push'](_0x388a88['shift']());}}}(_0x3942,0x897c9),module[_0x44dbc3(0x1d9)][_0x44dbc3(0x1f2)]={'name':_0x44dbc3(0x1ce),'eventType':[_0x44dbc3(0x1dd)],'version':_0x44dbc3(0x1d7),'credits':_0x44dbc3(0x1ca),'description':_0x44dbc3(0x1d3),'dependencies':{'fs-extra':'','path':''}},module[_0x44dbc3(0x1d9)][_0x44dbc3(0x1e8)]=function(){const _0x35bf46=_0x44dbc3,{existsSync:_0x5a0cb3,mkdirSync:_0x4c55b1}=global[_0x35bf46(0x1dc)]['fs-extra'],{join:_0x2b3e15}=global[_0x35bf46(0x1dc)][_0x35bf46(0x1e5)],_0x5ed19c=_0x2b3e15(__dirname,_0x35bf46(0x1ef),_0x35bf46(0x1ed),'randomgif');if(_0x5a0cb3(_0x5ed19c))_0x4c55b1(_0x5ed19c,{'recursive':!![]});const _0xec4ba3=_0x2b3e15(__dirname,_0x35bf46(0x1ef),_0x35bf46(0x1ed),'randomgif');if(!_0x5a0cb3(_0xec4ba3))_0x4c55b1(_0xec4ba3,{'recursive':!![]});return;},module[_0x44dbc3(0x1d9)][_0x44dbc3(0x1e4)]=async function({api:_0x339cb8,event:_0x1cc1ea,Users:_0x3bbf18,Threads:_0x4555f2}){const _0x2a5d97=_0x44dbc3;if(_0x1cc1ea['logMessageData'][_0x2a5d97(0x1e0)]==_0x339cb8[_0x2a5d97(0x1cd)]())return;const {createReadStream:_0x53e0c2,existsSync:_0x4626d6,mkdirSync:_0x5e3b71,readdirSync:_0x18ae94}=global['nodemodule'][_0x2a5d97(0x1d8)],{join:_0x5d00b1}=global[_0x2a5d97(0x1dc)]['path'],{threadID:_0x1be174}=_0x1cc1ea,_0x180b15=require('moment-timezone'),_0x214b74=_0x180b15['tz'](_0x2a5d97(0x1e9))['format'](_0x2a5d97(0x1f1)),_0x1fa38e=_0x180b15['tz']('Asia/Karachi')[_0x2a5d97(0x1db)]('HH'),_0x18e2a7=global[_0x2a5d97(0x1e7)][_0x2a5d97(0x1d0)][_0x2a5d97(0x1ec)](parseInt(_0x1be174))||(await _0x4555f2[_0x2a5d97(0x1d4)](_0x1be174))[_0x2a5d97(0x1e7)],_0x2f1426=global[_0x2a5d97(0x1e7)]['userName'][_0x2a5d97(0x1ec)](_0x1cc1ea['logMessageData'][_0x2a5d97(0x1e0)])||await _0x3bbf18['getNameUser'](_0x1cc1ea['logMessageData'][_0x2a5d97(0x1e0)]),_0x11d327=_0x1cc1ea['author']==_0x1cc1ea[_0x2a5d97(0x1e1)][_0x2a5d97(0x1e0)]?'leave':'managed',_0x547ef7=_0x5d00b1(__dirname,'events','123.mp4'),_0x27b2ee=_0x5d00b1(_0x547ef7,_0x1be174+_0x2a5d97(0x1cb));var _0x1a84ee,_0x3f2c34;if(_0x4626d6(_0x547ef7))_0x5e3b71(_0x547ef7,{'recursive':!![]});typeof _0x18e2a7['customLeave']==_0x2a5d97(0x1ee)?_0x1a84ee=_0x2a5d97(0x1df):_0x1a84ee=_0x18e2a7['customLeave'],_0x1a84ee=_0x1a84ee[_0x2a5d97(0x1e2)](/\{name}/g,_0x2f1426)[_0x2a5d97(0x1e2)](/\{type}/g,_0x11d327)[_0x2a5d97(0x1e2)](/\{session}/g,_0x1fa38e<=0xa?'𝙈𝙤𝙧𝙣𝙞𝙣𝙜':_0x1fa38e>0xa&&_0x1fa38e<=0xc?_0x2a5d97(0x1cc):_0x1fa38e>0xc&&_0x1fa38e<=0x12?_0x2a5d97(0x1cf):_0x2a5d97(0x1f3))[_0x2a5d97(0x1e2)](/\{time}/g,_0x214b74);const _0x3a810a=_0x18ae94(_0x5d00b1(__dirname,_0x2a5d97(0x1ef),_0x2a5d97(0x1ed),_0x2a5d97(0x1da)));if(_0x4626d6(_0x27b2ee))_0x3f2c34={'body':_0x1a84ee,'attachment':_0x53e0c2(_0x27b2ee)};else{if(_0x3a810a['length']!=0x0){const _0x28b220=_0x5d00b1(__dirname,'cache',_0x2a5d97(0x1ed),_0x2a5d97(0x1da),''+_0x3a810a[Math[_0x2a5d97(0x1f4)](Math[_0x2a5d97(0x1e3)]()*_0x3a810a[_0x2a5d97(0x1f5)])]);_0x3f2c34={'body':_0x1a84ee,'attachment':_0x53e0c2(_0x28b220)};}else _0x3f2c34={'body':_0x1a84ee};}return _0x339cb8['sendMessage'](_0x3f2c34,_0x1be174);});
+module.exports.config = {
+        name: "leave",
+        eventType: ["log:unsubscribe"],
+        version: "1.0.0",
+        credits: "Shaan Khan",
+        description: "Notify the Bot or the person leaving the group with a random gif/photo/video",
+        dependencies: {
+                "fs-extra": "",
+                "path": ""
+        }
+};
+
+module.exports.onLoad = function () {
+    const { existsSync, mkdirSync } = global.nodemodule["fs-extra"];
+    const { join } = global.nodemodule["path"];
+
+        const path = join(__dirname, "cache", "leaveGif", "randomgif");
+        if (existsSync(path)) mkdirSync(path, { recursive: true });        
+
+        const path2 = join(__dirname, "cache", "leaveGif", "randomgif");
+    if (!existsSync(path2)) mkdirSync(path2, { recursive: true });
+
+    return;
+}
+
+module.exports.run = async function({ api, event, Users, Threads }) {
+        if (event.logMessageData.leftParticipantFbId == api.getCurrentUserID()) return;
+        const { createReadStream, existsSync, mkdirSync, readdirSync } = global.nodemodule["fs-extra"];
+        const { join } =  global.nodemodule["path"];
+        const { threadID } = event;
+  const moment = require("moment-timezone");
+  const time = moment.tz("Asia/Karachi").format("DD/MM/YYYY || HH:mm:s");
+  const hours = moment.tz("Asia/Karachi").format("HH");
+        const data = global.data.threadData.get(parseInt(threadID)) || (await Threads.getData(threadID)).data;
+        const name = global.data.userName.get(event.logMessageData.leftParticipantFbId) || await Users.getNameUser(event.logMessageData.leftParticipantFbId);
+        const type = (event.author == event.logMessageData.leftParticipantFbId) ? "leave" : "managed";
+        const path = join(__dirname, "events", "123.mp4");
+        const pathGif = join(path, `${threadID}123.mp4`);
+        var msg, formPush
+
+        if (existsSync(path)) mkdirSync(path, { recursive: true });
+
+(typeof data.customLeave == "undefined") ? msg = "💐𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐇𝐀𝐀𝐍 𝐁𝐎𝐓 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍💐😇👈\n──────────────\n\n {name} \n\n──────────────\n𝐊𝐎 𝐁𝐇𝐆𝐀 𝐃𝐈𝐘𝐀🌝 \n──────────────────\n {type} \n──────────────\n𝐎𝐰𝐧𝐞𝐫 ➻  ──── 💐 𝐒𝐇𝐀𝐀𝐍 💐\n──────────────\n {name} \n──────────────\n 💐💐𝐊𝐈𝐓𝐍𝐀 𝐂𝐔𝐓𝐄 𝐓𝐇𝐀 𝐍𝐀 𝐘𝐄𝐇💐💐😥 ✨✨ 𝐆𝐑𝐎𝐔𝐏 𝐒𝐄 𝐂𝐇𝐀𝐋𝐀 𝐆𝐀𝐘𝐀 ♥ 𝐀𝐁 𝐌𝐄𝐑𝐀 𝐈𝐒𝐊𝐄 𝐁𝐈𝐍𝐀 𝐊𝐀𝐈𝐒𝐄 𝐌𝐀𝐍 𝐋𝐀𝐆𝐄𝐆𝐀🤔🤔\n──────────────\n\n[❤️‍🔥] 🖤🖤😥😥...Good {session} || {time}" : msg = data.customLeave;
+        msg = msg.replace(/\{name}/g, name).replace(/\{type}/g, type).replace(/\{session}/g, hours <= 10 ? "𝙈𝙤𝙧𝙣𝙞𝙣𝙜" : 
+    hours > 10 && hours <= 12 ? "𝘼𝙛𝙩𝙚𝙧𝙉𝙤𝙤𝙣" :
+    hours > 12 && hours <= 18 ? "𝙀𝙫𝙚𝙣𝙞𝙣𝙜" : "𝙉𝙞𝙜𝙝𝙩").replace(/\{time}/g, time);  
+
+        const randomPath = readdirSync(join(__dirname, "cache", "leaveGif", "randomgif"));
+
+        if (existsSync(pathGif)) formPush = { body: msg, attachment: createReadStream(pathGif) }
+        else if (randomPath.length != 0) {
+                const pathRandom = join(__dirname, "cache", "leaveGif", "randomgif",`${randomPath[Math.floor(Math.random() * randomPath.length)]}`);
+                formPush = { body: msg, attachment: createReadStream(pathRandom) }
+        }
+        else formPush = { body: msg }
+
+        return api.sendMessage(formPush, threadID);
+                            }
